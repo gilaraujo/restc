@@ -1,0 +1,8 @@
+Debug
+Release
+/.vs
+*.sdf
+*.opensdf
+*.htm
+*.user
+*.log
